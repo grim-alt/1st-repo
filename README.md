@@ -1,5 +1,5 @@
 # 1st-repo
-ItThis is a comprehensive README.md file designed for a GitHub repository. It categorizes your code into the core pillars of Object-Oriented Programming (OOP) and basic data structures, providing a clear explanation for each.
+This is a comprehensive README.md file designed for a GitHub repository. It categorizes your code into the core pillars of Object-Oriented Programming (OOP) and basic data structures, providing a clear explanation for each.
 ### Key Concepts Explained
 
 ### 1. Inheritance
